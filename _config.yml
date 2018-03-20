@@ -1,6 +1,8 @@
 permalink: /:title
 
 title: Hushida
+email: 17702438993@163.com
+description: "胡世达的博客"
 url: http://Hushida.github.io
 feed: /atom.xml
 author_info: <a href="http://Hushida.github.io/">Hushida</a>
